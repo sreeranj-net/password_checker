@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-# simple checks, not meant to be perfect
+
 This is a small Python script I made to check how strong a password is.
 It checks common things like length, uppercase letters, numbers, and symbols.
 
@@ -10,6 +10,8 @@ I created this mainly to understand basic password rules and regex usage.
 The script gives a score based on different conditions and then classifies the
 password as weak, medium, or strong. If the password is weak, it also shows
 some suggestions.
+
+simple checks, not meant to be perfect
 
 ## How to run
 
