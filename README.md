@@ -1,5 +1,6 @@
 # Password Strength Checker
 
+# simple checks, not meant to be perfect
 This is a small Python script I made to check how strong a password is.
 It checks common things like length, uppercase letters, numbers, and symbols.
 
@@ -17,5 +18,4 @@ Make sure Python is installed.
 ```bash
 python password_checker.py
 
-# simple checks, not meant to be perfect
 
