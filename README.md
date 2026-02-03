@@ -16,3 +16,6 @@ Make sure Python is installed.
 
 ```bash
 python password_checker.py
+
+# simple checks, not meant to be perfect
+
